@@ -1,2 +1,2 @@
 # MLE-Udacity
-Udacity machine learning engineer
+Udacity Machine Learning Engineer Program projects
